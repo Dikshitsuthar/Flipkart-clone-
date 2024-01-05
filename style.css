@@ -5,6 +5,7 @@
 }
 
 .navbar {
+    position: fixed;
     background-color: #2874F0;
     height: 56px;
     width: 100%;
